@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-4.6.dtd">
+<!-- eric4 project file for project OTool2 -->
+<!-- Saved: 2016-04-07, 11:55:57 -->
+<!-- Copyright (C) 2016 ,  -->
+<Project version="4.6">
+  <Language></Language>
+  <ProgLanguage mixed="0">Python</ProgLanguage>
+  <ProjectType>Qt4</ProjectType>
+  <Description></Description>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Sources>
+    <Source>O2Tool.py</Source>
+    <Source>build/bdist.win-amd64/winexe/temp/bz2.py</Source>
+    <Source>build/bdist.win-amd64/winexe/temp/pyexpat.py</Source>
+    <Source>build/bdist.win-amd64/winexe/temp/PyQt4.QtCore.py</Source>
+    <Source>build/bdist.win-amd64/winexe/temp/PyQt4.QtGui.py</Source>
+    <Source>build/bdist.win-amd64/winexe/temp/select.py</Source>
+    <Source>build/bdist.win-amd64/winexe/temp/sip.py</Source>
+    <Source>build/bdist.win-amd64/winexe/temp/unicodedata.py</Source>
+    <Source>build/bdist.win-amd64/winexe/temp/win32api.py</Source>
+    <Source>build/bdist.win-amd64/winexe/temp/win32pipe.py</Source>
+    <Source>build/bdist.win-amd64/winexe/temp/_ctypes.py</Source>
+    <Source>build/bdist.win-amd64/winexe/temp/_hashlib.py</Source>
+    <Source>build/bdist.win-amd64/winexe/temp/_socket.py</Source>
+    <Source>build/bdist.win-amd64/winexe/temp/_ssl.py</Source>
+    <Source>build/bdist.win32/winexe/temp/bz2.py</Source>
+    <Source>build/bdist.win32/winexe/temp/pyexpat.py</Source>
+    <Source>build/bdist.win32/winexe/temp/PyQt4.QtCore.py</Source>
+    <Source>build/bdist.win32/winexe/temp/PyQt4.QtGui.py</Source>
+    <Source>build/bdist.win32/winexe/temp/select.py</Source>
+    <Source>build/bdist.win32/winexe/temp/sip.py</Source>
+    <Source>build/bdist.win32/winexe/temp/unicodedata.py</Source>
+    <Source>build/bdist.win32/winexe/temp/win32api.py</Source>
+    <Source>build/bdist.win32/winexe/temp/win32pipe.py</Source>
+    <Source>build/bdist.win32/winexe/temp/_ctypes.py</Source>
+    <Source>build/bdist.win32/winexe/temp/_hashlib.py</Source>
+    <Source>build/bdist.win32/winexe/temp/_socket.py</Source>
+    <Source>build/bdist.win32/winexe/temp/_ssl.py</Source>
+    <Source>FUC/ads.py</Source>
+    <Source>FUC/config.py</Source>
+    <Source>FUC/connect.py</Source>
+    <Source>FUC/getstate.py</Source>
+    <Source>FUC/record.py</Source>
+    <Source>FUC/scListShow.py</Source>
+    <Source>FUC/__init__.py</Source>
+    <Source>O2T.py</Source>
+    <Source>scHistory.py</Source>
+    <Source>scTable.py</Source>
+    <Source>setup.py</Source>
+    <Source>test.py</Source>
+    <Source>test2.py</Source>
+    <Source>Ui_O2T.py</Source>
+    <Source>Ui_scHistory.py</Source>
+    <Source>Ui_scTable.py</Source>
+    <Source>__init__.py</Source>
+  </Sources>
+  <Forms>
+    <Form>UI/O2T.ui</Form>
+    <Form>UI/scTable.ui</Form>
+  </Forms>
+  <Translations>
+  </Translations>
+  <Resources>
+  </Resources>
+  <Interfaces>
+  </Interfaces>
+  <Others>
+  </Others>
+  <MainScript>O2Tool.py</MainScript>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.ui" type="FORMS" />
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES" />
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS" />
+    <FiletypeAssociation pattern="*.ptl" type="SOURCES" />
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES" />
+    <FiletypeAssociation pattern="*.ui.h" type="FORMS" />
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS" />
+    <FiletypeAssociation pattern="*.py" type="SOURCES" />
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES" />
+  </FiletypeAssociations>
+</Project>

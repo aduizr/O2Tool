@@ -1,0 +1,13 @@
+.gsDataTime
+.grWindSpeed
+.grGenSpeedPDM
+.grGenPowerForProcess
+.grProcessorLoad_Percent
+.grpitchangle
+.grENVin_Blade1Setpoint
+.grConverter_GeneratorTorque_Nm
+.grGenTorqueSetValue
+.giBPLevel
+.giTurbineOperationMode
+.giState
+PRG_PowerReduction.iPowerReductionMode
